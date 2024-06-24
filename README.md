@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Toe Aung Myin
+👨‍💻 Full-Stack Developer
 
-<!--
-**toeaungmyin/toeaungmyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building dynamic and responsive web applications using React and Laravel. My expertise includes:
 
-Here are some ideas to get you started:
+Languages: JavaScript, TypeScript, PHP, Java
+Frontend: React, Next.js, Tailwind CSS, Bootstrap, Redux, Vite
+Backend: Laravel, Express, NestJS
+Desktop: Electron
+🔧 Technologies & Tools
+Front-end: React, Next.js, Tailwind CSS, Bootstrap, Redux, Vite
+Back-end: Laravel, Express, NestJS
+Languages: JavaScript, TypeScript, PHP, Java
+Desktop: Electron
+Databases: MySQL, PostgreSQL, MongoDB
+Version Control: Git, GitHub
+Other Tools: Docker, Webpack, Babel, Jest
+📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me
+LinkedIn: Toe Aung Myin
+Email: toeaungmyin@example.com
+🚀 Projects
+Check out some of my projects:
+
+Project 1: A brief description of Project 1.
+Project 2: A brief description of Project 2.
+Project 3: A brief description of Project 3.
