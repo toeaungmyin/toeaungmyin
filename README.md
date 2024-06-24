@@ -16,6 +16,6 @@ I specialize in building dynamic and responsive web applications using **React**
 - **Other Tools**: Docker, Webpack, Babel, Jest
 
 ## 📫 How to reach me
-
-- Email: [toeaungmyin.official@gmail.com](mailto:toeaungmyin.official@gmail.com)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toeaungmyin&layout=compact&theme=radical)
+- Email: [toeaungmyin.official@gmail.com](mailto:toeaungmyin.official@gmail.com)
+
