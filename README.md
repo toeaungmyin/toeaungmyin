@@ -17,5 +17,4 @@ I specialize in building dynamic and responsive web applications using **React**
 
 ## 📫 How to reach me
 
-- LinkedIn: [Toe Aung Myin](https://www.linkedin.com/in/toeaungmyin)
-- Email: [toeaungmyin@example.com](mailto:toeaungmyin@example.com)
+- Email: [toeaungmyin@example.com](mailto:toeaungmyin.official@gmail.com)
