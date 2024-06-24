@@ -17,4 +17,4 @@ I specialize in building dynamic and responsive web applications using **React**
 
 ## 📫 How to reach me
 
-- Email: [toeaungmyin@example.com](mailto:toeaungmyin.official@gmail.com)
+- Email: [toeaungmyin.official@gmail.com](mailto:toeaungmyin.official@gmail.com)
