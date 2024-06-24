@@ -11,15 +11,11 @@ I specialize in building dynamic and responsive web applications using **React**
 
 ## 🔧 Technologies & Tools
 
-- **Front-end**: React, Next.js, Tailwind CSS, Bootstrap, Redux, Vite
-- **Back-end**: Laravel, Express, NestJS
-- **Languages**: JavaScript, TypeScript, PHP, Java
-- **Desktop**: Electron
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, Webpack, Babel, Jest
 
 ## 📫 How to reach me
 
 - LinkedIn: [Toe Aung Myin](https://www.linkedin.com/in/toeaungmyin)
-- Email: [toeaungmyin.official@gmail.com](mailto:toeaungmyin.official@gmail.com)
+- Email: [toeaungmyin@example.com](mailto:toeaungmyin@example.com)
