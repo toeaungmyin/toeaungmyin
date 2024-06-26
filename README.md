@@ -7,13 +7,14 @@ I specialize in building dynamic and responsive web applications using **React**
 - **Languages**: JavaScript, TypeScript, PHP, Java
 - **Frontend**: React, Next.js, Tailwind CSS, Bootstrap, Redux, Vite
 - **Backend**: Laravel, Express, NestJS
-- **Desktop**: Electron
+- **Desktop**: Electron, JavaFX
 
 ## 🔧 Technologies & Tools
 
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Webpack, Babel, Jest
+- **Other Tools**: Docker, Webpack, Apache, Nignx
+- **Design Tools**: Photoshop, Figma
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toeaungmyin&layout=compact&theme=radical)
